@@ -19,6 +19,7 @@
 | ความละเอียด | **10–20 m** | 30 m |
 | Revisit time | **5 วัน** | 16 วัน |
 | Atmospheric correction | Sen2Cor (SR) | USGS C2L2 |
+
 เลือก Sentinel-2 เพราะความละเอียด 10–20m เหมาะกับระดับอำเภอ/ตำบล และ Revisit 5 วันให้ภาพเพียงพอสำหรับ Composite
 
 ช่วงเวลาที่เลือก
