@@ -3,7 +3,17 @@
 **ภม.338 Geographic Data Science**
 
 ---
-
+GE338-Lab-3/
+├── lab3_classification.ipynb   ← Notebook หลัก 
+├── README.md                   
+└── figures/                   
+    ├── confusion_matrix_RF.png
+    ├── confusion_matrix_GTB.png
+    ├── algorithm_comparison.png
+    ├── feature_importance.png
+    ├── uncertainty_analysis.png
+    └── learning_curve.png
+    
 ## คำถามท้าย README
 
 ### 1. ถ้าเพิ่ม Training Samples 2 เท่า OA จะเพิ่มแค่ไหน?
